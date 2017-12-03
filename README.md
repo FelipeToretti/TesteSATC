@@ -2,7 +2,7 @@
 
 Teste para vaga de estágio SATC.
 
-Índice:
+<b>Índice:</b>
 
 Pasta Exercicio1 : Contém o material da questão 1.  
 Pasta Exercicio2 : Contem os materiais da questão 2.  
