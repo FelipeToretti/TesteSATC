@@ -4,9 +4,9 @@ Teste para vaga de estágio SATC.
 
 Índice:
 
-Pasta Exercicio1 : Contém o material da questão 1. 
-Pasta Exercicio2 : Contem os materiais da questão 2. 
-Pasta Banco : Contém o arquivo .sql do banco de dados.
+Pasta Exercicio1 : Contém o material da questão 1.  
+Pasta Exercicio2 : Contem os materiais da questão 2.  
+Pasta Banco : Contém o arquivo .sql do banco de dados. 
 
 Instruções:
 
